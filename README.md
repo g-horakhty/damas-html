@@ -62,7 +62,7 @@ O projeto utiliza uma arquitetura simples mas eficiente:
 ## 📁 Estrutura do Projeto
 
 ```
-damas.html          # Arquivo único contendo todo o projeto
+damas-v0.1.html          # Arquivo único contendo todo o projeto
 ```
 
 ## 🛠️ Tecnologias Utilizadas
