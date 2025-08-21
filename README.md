@@ -55,7 +55,7 @@ O projeto utiliza uma arquitetura simples mas eficiente:
 
 ## 🚀 Como Executar
 
-1. Faça o download do arquivo `damas.html`
+1. Faça o download do arquivo `damas-v0.1.html`
 2. Abra o arquivo em qualquer navegador moderno (Chrome, Firefox, Edge)
 3. O jogo carregará instantaneamente, sem necessidade de instalação
 
