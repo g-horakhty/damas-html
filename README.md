@@ -19,7 +19,7 @@ Este projeto nasceu da necessidade de ter um jogo de damas completo que funcione
 
 ## 🎮 Como Jogar
 
-1. Abra o arquivo `damas.html` em qualquer navegador moderno
+1. Abra o arquivo `damas-v0.1.html` em qualquer navegador moderno
 2. Selecione a variante de damas desejada
 3. Escolha sua cor (Brancas ou Pretas)
 4. Defina quem começa jogando
